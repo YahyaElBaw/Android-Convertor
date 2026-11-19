@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Couleurs imposées par la maquette du TP -->
+    <color name="zone_haut_bg">#2BB8E8</color>
+    <color name="clavier_chiffre">#1BA6C9</color>
+    <color name="touche_c">#F0727A</color>
+    <color name="bouton_convertir_bg">#88C8F7</color>
+    <color name="bouton_convertir_text">#1565C0</color>
+    <color name="ligne_soulignement">#45CBF5</color>
+    <color name="fond_clavier">#FFFFFF</color>
+    <color name="texte_sombre">#1E293B</color>
+</resources>

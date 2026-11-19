@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CurrencyConverter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/zone_haut_bg</item>
+        <item name="colorPrimaryVariant">@color/clavier_chiffre</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/zone_haut_bg</item>
+    </style>
+</resources>
